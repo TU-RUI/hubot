@@ -15,4 +15,6 @@ If you'd like to chat, drop by [#hubot](http://webchat.freenode.net/?channels=#h
 
 ## License
 
+modify .........
+
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
